@@ -22,7 +22,7 @@
 ***Описание:** Оценка эффективности обновленного онбординга в мобильном приложении для торговли финансовыми активами (SollmaFin). Цель — проверить, поможет ли детальное обучение пользователей финансовым рискам повысить их вовлеченность без снижения конверсии в депозиты*
 *   **Стек:** Python, Pandas, Matplotlib, Scipy.stats (ttest_ind), Statsmodels (proportions_ztest), бутстрап numpy.random.choice
 
-#### 4. [Анализ юнит-экономики развлекательного приложения и поиск причин стагнации выручки](<https://github.com/Mariya-Sakovich/DA_Projects/blob/a5e36d661ad437d1375bccfca91085083166c330/04%20entertainment_app_metrics/p5%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20clean.ipynb>)
+#### 4. [Анализ юнит-экономики развлекательного приложения и поиск причин падения выручки](<https://github.com/Mariya-Sakovich/DA_Projects/blob/a5e36d661ad437d1375bccfca91085083166c330/04%20entertainment_app_metrics/p5%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20clean.ipynb>)
 ***Описание:** Исследование причин падения выручки в мобильном приложении. Расчет ключевых метрик (LTV, CAC, ROI, Retention) в разрезе когорт и рекламных каналов. Определение точек неэффективности маркетинговых расходов.*
 *   **Стек:** Python, Pandas, Matplotlib, Seaborn
 
