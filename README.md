@@ -10,7 +10,7 @@
 
 ### Проекты
 
-#### 1. [Обзор бизнес-показателей маркетплейса](<https://github.com/Mariya-Sakovich/DA_Projects/blob/cce52bc54f3ee226891f6a7a651fd1d2ede9af87/p0%20%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0%20%D0%B8%20%D0%90-%D0%92-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0%20clean.ipynb>)
+#### 1. [Обзор бизнес-показателей маркетплейса](<https://github.com/Mariya-Sakovich/DA_Projects/blob/a5e36d661ad437d1375bccfca91085083166c330/01%20marketplace_unit_economics/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0%20clean.ipynb>)
 ***Описание:** Анализ бизнес-показателей маркетплейса для выявления точек роста, оценки эффективность каналов привлечения, расчет юнит-экономики и предложение гипотез для улучшения продукта. Проведение А/В-тестирования и обработка его результатов.*
 *   **Стек:** Python, Pandas, Matplotlib, Seaborn, Scipy (Mann-Whitney), Statsmodels (proportions_ztest)
 
