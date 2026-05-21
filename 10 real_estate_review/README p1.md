@@ -6,7 +6,7 @@
 
 # Навыки и инструменты
 - SQL
-- YandexDatalen
+- YandexDatalens
 
 
 # Общий вывод
